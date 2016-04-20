@@ -1,7 +1,6 @@
 # InfoSec Engineering Reading List
 
-A reading list for InfoSec engineers, with an emphasis engineering for Software-, Platform-, 
-and Infrastructure-as-a-Service.
+A reading list for InfoSec engineers, with an emphasis on Software-, Platform-, and Infrastructure-as-a-Service.
 
 [Suggestions are welcome!](CONTRIBUTING.md)
 
@@ -9,6 +8,7 @@ and Infrastructure-as-a-Service.
 
 ## Books
 
+* [The Field Guide to Understanding 'Human Error'](http://amazon.com/dp/1472439058) (Dekker)
 * [The New School of Information Security](http://amazon.com/dp/0321502787) (Shostack and Stewart)
 * [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/) (Howard and Lipner)
 * [The Tangled Web](http://amazon.com/dp/1593273886) (Zalewski)
