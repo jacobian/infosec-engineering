@@ -20,8 +20,11 @@ and Infrastructure-as-a-Service.
 * [A Tale of Security Gone Wrong](http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/) (Miller)
 * [Anatomy of a Crypto Vulnerability](https://alexgaynor.net/2016/mar/14/anatomy-of-a-crypto-vulnerability/) (Gaynor)
 * [Bounty Launch Lessons](https://medium.com/starting-up-security/bounty-launch-lessons-c7c3be3f5b#.1hbi9xp4n) (McGeehan and Honeywell)
+* [Building a Let's Encrypt client from scratch](https://github.com/alexpeattie/letsencrypt-fromscratch) (Peattie)
 * [Cryptography Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad) (Ptacek)
+* [HTTPS is Hard](https://blog.yell.com/2016/03/https-is-hard/) (Workman)
 * [Security Breach 101](https://medium.com/starting-up-security/security-breach-101-b0f7897c027c) and [Security Breach 102](https://medium.com/starting-up-security/security-breach-102-d5fc88c5660f) (McGeehan)
+* [Security Engineeing as Caring-For](https://noncombatant.org/2016/03/27/security-as-caring-for/) (Palmer)
 * Who Fixes That Bug: [Part One: Them!](https://medium.com/starting-up-security/who-fixes-that-bug-d44f9a7939f2), [Part Two: Us!](https://medium.com/starting-up-security/who-fixes-that-bug-f17d48443e21) (McGeehan)
 
 ## Papers
