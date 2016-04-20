@@ -25,6 +25,7 @@ and Infrastructure-as-a-Service.
 * [HTTPS is Hard](https://blog.yell.com/2016/03/https-is-hard/) (Workman)
 * [Security Breach 101](https://medium.com/starting-up-security/security-breach-101-b0f7897c027c) and [Security Breach 102](https://medium.com/starting-up-security/security-breach-102-d5fc88c5660f) (McGeehan)
 * [Security Engineeing as Caring-For](https://noncombatant.org/2016/03/27/security-as-caring-for/) (Palmer)
+* [What Werewolf teaches us about Trust & Security](https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/) (Eaves)
 * Who Fixes That Bug: [Part One: Them!](https://medium.com/starting-up-security/who-fixes-that-bug-d44f9a7939f2), [Part Two: Us!](https://medium.com/starting-up-security/who-fixes-that-bug-f17d48443e21) (McGeehan)
 
 ## Papers
@@ -33,3 +34,7 @@ and Infrastructure-as-a-Service.
 * [Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s](https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf) (Kehl, Wilson, and Bankston)
 * [Practical Security Stories and Security Tasks for Agile Environments](http://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf) (SAFECode)
 * [The Security of Modern Password Expiration: An Algorithmic Framework and Empirical Analysis]( http://cs.unc.edu/~fabian/papers/PasswordExpire.pdf) (Zhang, Monrose, and Reiter)
+
+## Video
+
+* [Lessons Learned While Protecting Gmail](https://www.youtube.com/watch?v=nkV9kOsTyJU) (Bursztein)
