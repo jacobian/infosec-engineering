@@ -1,6 +1,12 @@
 # InfoSec Engineering Reading List
 
-A reading list for InfoSec engineers, with an emphasis on Software-, Platform-, and Infrastructure-as-a-Service.
+A reading list for InfoSec engineers.
+
+This is *my* list, not a definitive one; that is, these are resources I've found useful. As such it has some baises:
+
+- It's oriented towards providers of Software-, Platform-, and Infrastructure-as-a-Service.
+- It tends to focus on the human factors aspects of security practice (there's deeply technical stuff too, just not as much).
+- There's some random stuff that's not explicitly "about infosec", but that I've nonetheless found extremely useful in thinking about infosec. Dekker's *Field Guide to Understanding 'Human Error'* is a good example of this kind of resource. 
 
 [Suggestions are welcome!](CONTRIBUTING.md)
 
