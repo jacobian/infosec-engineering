@@ -37,4 +37,5 @@ and Infrastructure-as-a-Service.
 
 ## Video
 
+* [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (Van Houtven)
 * [Lessons Learned While Protecting Gmail](https://www.youtube.com/watch?v=nkV9kOsTyJU) (Bursztein)
