@@ -14,6 +14,7 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 
 ## Books
 
+* [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (Ristić)
 * [The Field Guide to Understanding 'Human Error'](http://amazon.com/dp/1472439058) (Dekker)
 * [The New School of Information Security](http://amazon.com/dp/0321502787) (Shostack and Stewart)
 * [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/) (Howard and Lipner)
