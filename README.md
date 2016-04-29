@@ -48,3 +48,4 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 
 * [Crypto 101](https://www.youtube.com/watch?v=3rmCGsCYJF8) (Van Houtven)
 * [Lessons Learned While Protecting Gmail](https://www.youtube.com/watch?v=nkV9kOsTyJU) (Bursztein)
+* [Web Security Fundamentals](https://info.varonis.com/web-security-fundamentals) (Hunt)
