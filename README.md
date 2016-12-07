@@ -37,10 +37,6 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 * [What Werewolf teaches us about Trust & Security](https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/) (Eaves)
 * Who Fixes That Bug: [Part One: Them!](https://medium.com/starting-up-security/who-fixes-that-bug-d44f9a7939f2), [Part Two: Us!](https://medium.com/starting-up-security/who-fixes-that-bug-f17d48443e21) (McGeehan)
 
-## Hands-on exercises
-
-* [Cryotopals crypto challanges](http://cryptopals.com/) (Ptacek, Devlin, Balducci, Wielgoszewski)
-
 ## Papers
 
 * [2016 Data Breach Investigation Report](http://www.verizonenterprise.com/verizon-insights-lab/dbir/2016/insiders/) (Verizon Enterprise) - see also previous years: [2015](http://www.verizonenterprise.com/DBIR/2015/) [2014](http://www.verizonenterprise.com/DBIR/2014/reports/rp_Verizon-DBIR-2014_en_xg.pdf), [2013](http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2013_en_xg.pdf), [2012](http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2012_en_xg.pdf), [2011](http://www.verizonenterprise.com/resources/reports/rp_data-breach-investigations-report-2011_en_xg.pdf), [2010](http://www.verizonenterprise.com/resources/reports/rp_2010-data-breach-report_en_xg.pdf), [2009](http://www.verizonenterprise.com/resources/security/reports/2009_databreach_rp.pdf), [2008](http://www.verizonenterprise.com/resources/security/databreachreport.pdf).
