@@ -21,6 +21,7 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 * [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/) (Howard and Lipner)
 * [The Tangled Web](http://amazon.com/dp/1593273886) (Zalewski)
 * [The Web Application Hacker's Handbook](http://amazon.com/dp/8126533404) (Stuttard)
+* [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) (Anderson)
 * [Threat Modeling: Designing for Security](http://amazon.com/dp/1118809998) (Shostack)
 
 ## Blog posts
