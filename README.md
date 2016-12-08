@@ -8,6 +8,8 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 - It tends to focus on the human factors aspects of security practice (there's deeply technical stuff too, just not as much).
 - There's some random stuff that's not explicitly "about infosec", but that I've nonetheless found extremely useful in thinking about infosec. Dekker's *Field Guide to Understanding 'Human Error'* is a good example of this kind of resource. 
 
+Stars :star: indicate especially good "starting point" resources - things to read first as an introduction to the topic.
+
 [Suggestions are welcome!](CONTRIBUTING.md)
 
 *[This list is inspired by Mark McGranaghan's [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering/), which super-great. Thanks for the list, and the inspiration, Mark!]*
@@ -15,11 +17,11 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 ## Books
 
 * [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (Ristić)
-* [Crypto 101](https://www.crypto101.io/) (lvh) (Ignore the "pre-release" moniker; it's done enough to be called complete.)
+* [Crypto 101](https://www.crypto101.io/) (lvh) :star:
 * [The Field Guide to Understanding 'Human Error'](http://amazon.com/dp/1472439058) (Dekker)
 * [The New School of Information Security](http://amazon.com/dp/0321502787) (Shostack and Stewart)
 * [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/) (Howard and Lipner)
-* [The Tangled Web](http://amazon.com/dp/1593273886) (Zalewski)
+* [The Tangled Web](http://amazon.com/dp/1593273886) (Zalewski) :star: 
 * [The Web Application Hacker's Handbook](http://amazon.com/dp/8126533404) (Stuttard)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) (Anderson)
 * [Threat Modeling: Designing for Security](http://amazon.com/dp/1118809998) (Shostack)
@@ -32,8 +34,8 @@ This is *my* list, not a definitive one; that is, these are resources I've found
 * [Building a Let's Encrypt client from scratch](https://github.com/alexpeattie/letsencrypt-fromscratch) (Peattie)
 * [Cryptography Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad) (Ptacek)
 * [HTTPS is Hard](https://blog.yell.com/2016/03/https-is-hard/) (Workman)
-* [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan)
-* [Security Breach 101](https://medium.com/starting-up-security/security-breach-101-b0f7897c027c) and [Security Breach 102](https://medium.com/starting-up-security/security-breach-102-d5fc88c5660f) (McGeehan)
+* [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan) :star:
+* [Security Breach 101](https://medium.com/starting-up-security/security-breach-101-b0f7897c027c) and [Security Breach 102](https://medium.com/starting-up-security/security-breach-102-d5fc88c5660f) (McGeehan) :star:
 * [Security Engineeing as Caring-For](https://noncombatant.org/2016/03/27/security-as-caring-for/) (Palmer)
 * [What Werewolf teaches us about Trust & Security](https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/) (Eaves)
 * Who Fixes That Bug: [Part One: Them!](https://medium.com/starting-up-security/who-fixes-that-bug-d44f9a7939f2), [Part Two: Us!](https://medium.com/starting-up-security/who-fixes-that-bug-f17d48443e21) (McGeehan)
