@@ -35,8 +35,8 @@ Stars :star: indicate especially good "starting point" resources - things to rea
 * [Building a Let's Encrypt client from scratch](https://github.com/alexpeattie/letsencrypt-fromscratch) (Peattie)
 * [Cryptography Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad) (Ptacek)
 * [HTTPS is Hard](https://blog.yell.com/2016/03/https-is-hard/) (Workman)
-* [Incident Response at Heroku](https://blog.heroku.com/archives/2014/5/9/incident-response-at-heroku) (McGranaghan) :star:
 * [Learning From A Year Of Security Breaches](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b) (McGeehan) :star:
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) (PagerDuty) :star:
 * [Security Breach 101](https://medium.com/starting-up-security/security-breach-101-b0f7897c027c) and [Security Breach 102](https://medium.com/starting-up-security/security-breach-102-d5fc88c5660f) (McGeehan) :star:
 * [Security Engineeing as Caring-For](https://noncombatant.org/2016/03/27/security-as-caring-for/) (Palmer)
 * [What Werewolf teaches us about Trust & Security](https://eaves.ca/2013/11/07/what-werewolf-teaches-us-about-trust-security/) (Eaves)
