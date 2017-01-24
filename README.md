@@ -50,6 +50,7 @@ Stars :star: indicate especially good "starting point" resources - things to rea
 * [Practical Security Stories and Security Tasks for Agile Environments](http://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf) (SAFECode)
 * [Security for Startups: The Affordable Ten-Step Plan for Survival in Cyberspace](http://www.clearslide.com/view/mail?iID=4N4CK3RAZ62TSQ8FTVJV) (Cowan)
 * [The Security of Modern Password Expiration: An Algorithmic Framework and Empirical Analysis]( http://cs.unc.edu/~fabian/papers/PasswordExpire.pdf) (Zhang, Monrose, and Reiter)
+* [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf) (Aleph One)
 
 ## Video
 
