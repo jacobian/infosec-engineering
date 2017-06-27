@@ -20,6 +20,7 @@ Stars :star: indicate especially good "starting point" resources - things to rea
 * [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (Ristić)
 * [Crypto 101](https://www.crypto101.io/) (lvh) :star:
 * [The Field Guide to Understanding 'Human Error'](http://amazon.com/dp/1472439058) (Dekker)
+* [How To Measure Anything in Cybersecurity Risk](https://www.amazon.com/How-Measure-Anything-Cybersecurity-Risk/dp/1119085292/) (Hubbard and Seiersen)
 * [The New School of Information Security](http://amazon.com/dp/0321502787) (Shostack and Stewart)
 * [The Security Development Lifecycle](https://blogs.msdn.microsoft.com/microsoft_press/2016/04/19/free-ebook-the-security-development-lifecycle/) (Howard and Lipner)
 * [The Tangled Web](http://amazon.com/dp/1593273886) (Zalewski) :star: 
